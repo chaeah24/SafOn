@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+folium
+streamlit-folium
+requests
+geopy
+networkx
+jinja2
+streamlit-geolocation
